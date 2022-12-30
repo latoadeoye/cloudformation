@@ -1,9 +1,11 @@
 
 @media screen {
+  
+}@counter-style {
     
 }@counter-style<DOCTYPEhtml>
 <html lang="en"></html>
-<head></head>
+<head>MainCSS</head>
 <meta chara set="utf-8">
 <meta name="theme color" content="#000000"/>
 <meta name="display" content="flex"/>
@@ -28,48 +30,440 @@
 <title>RainbowPage</title>
 <body>
 <h1>Style</h1>
-<style color="create rainbow">background-image:rainbow color</style>
+<style color="create rainbow">background-image:rainbow color,this.property.backgroundcolor.BIND</style>
 <style span>linear-gradient start lefthandsidespan right hand side (from left,red,orange,yellow,green,blue,indigo,violet),position: 2px below Top margin,margin-left:auto,"margin-right":"auto"</style>
-<style color>Welcome page background-image,use.change to newbackground-image:rainbow color</style><a href="../LATO/rainbowcolor/css/welcomepage"></a>
+<style color>home page background-image,use.change to newbackground-image:rainbow color,this.property.backgroundcolor.BIND<a href="../LATO/rainbowcolor/css/HOMEpage"></a></style>
+<style color>menu page background-image,use.change to newbackground-image:orange color,this.property.backgroundcolor.BIND<a href="../LATO/orangecolor/css/MENUpage"></a></style>
+<style color>component page background-image,use.change to newbackground-image:yellow color,this.property.backgroundcolor.BIND<a href="../LATO/yellow color/css/COMPONENTpage"></a></style>
+<style color>vegetarian page background-image,use.change to newbackground-image:green color,this.property.backgroundcolor.BIND<a href="../LATO/greencolor/css/VEGETARIANpage"></a></style>
+<style color>payment page background-image,use.change to newbackground-image:blue color,this.property.backgroundcolor.BIND<a href="../LATO/bluecolor/css/PAYMENTSpage"></a></style>
+<style color>sigin page background-image,use.change to newbackground-image:indigo color,this.property.backgroundcolor.BIND<a href="../LATO/indigocolor/css/SIGINpage"></a></style>
+<style color>login page background-image,use.change to newbackground-image:violet color,this.property.backgroundcolor.BIND<a href="../LATO/violet color/css/LOGINpage"></a></style>
 </style>
 </style>
 </head>
 </body>
-<div class="rainbow">Color</div>
-<div class="MOUNT GATEWAYPAYMENT"></div>
-<div id="script Type">ScriptMounted type="codecustomise"</div>
+LinkScript
+<head>
+<title>MOUNT OBJECTS</title>
+<body>
+<ul>
+<object>
+<script type="source"> a href="http://radio.garden/live"</a></script> 
+<type>application,x-shockwave-flash</a></type>
+<script type="Ontouch">Ontouch anyblackSpot,EventListenerONplaylocalStation,this.set.state.BINDPLAYBUTTON</script>
 <div class="object">embed Radio</div>
-<div id="MOUNT RADIO">MountRadioGarden</div>
-<embed src="http://radio.garden/live" type="application/x-shockwave-flash"allowscript access="always",allow full audio="true"></embed>
-Ontouch anyblackSpot,EventListenerONplaylocalStation,this.set.state.BINDPLAYBUTTON
-</object>
-</embed>
-</div>
-<div class="object">embed vedio</div>
+<div class="const">const App()=>(
+  const radio el="React.useRef()"
+const [time,setTime]="React",
+const mount radio=>{
+  el.innerHTML=<div class='time'>OS</div>
+  <radio src="electronicQuery">el.query selector<"radio">.ONtimeUpdate=(e)=>
+  {el.query selector("time").innerText={e.Target.CurrentTime=Value}
+  ReactDOM.render(<APP/>.document.getElementById("app"))}</div>
+  <div id="MOUNT RADIO">MountRadioGarden</div>
+ <script type>allowscript access="always",allow full audio="true"</script>
+ </script>
+ </div>
+ <embed src="http://www.youtube.com/v/dMHObHeiRNg&W+en&fs=1" type="application/x-shockwave-flash"allowscript access="always",allow fullscreen="true",width"425",height="344"></embed>
+<div class="object">embedvideo</div>
+<div class="const">const App()=>(
+  const video el="React.useRef()"
+const [time,setTime]="React")
+const mount video=>{
+  el.innerHTML=<div class='time'>OS</div>
+  <video src="http://common data storage.google/api.com/gtv-video s-bucket/sample/BigBuckBunny.mp4control"></video>
+  <ideo src="electronicQuery">el.query selector<"video">.ONtimeUpdate=(e)=>
+  {el.query selector("time").innerText={e.Target.CurrentTime=Value}};
+  ReactDOM.render(<APP/>.document.getElementById("app"))}</div>
 <div id="MOUNT VIDEO">Mount YouTube video</div>
-<embed src="http://www.youtube.com/v/dMHObHeiRNg&W+en&fs=1" type="application/x-shockwave-flash"allowscript access="always",allow fullscreen="true",width"425",height="344"></embed>
+<script type>allowscript access="always",allow full audio="true",allow full audio="true"</script>
 </object>
 </embed>
 </div>
-<div class="Loading">Model:preventLazyLoading,Model:Allow Eager Loading always autoOnbootingEventListener,PlaceHolderOnLazyLoading,Alert User&sendTextMessage</div>
+:any-link
+<head>ACCEPTING INPUT EITHER DIRECTLYFROM ONLINE orFROM POINT OF SALE PAYIN To APPEAR AS CREDIT,&PAYOUT To APPEAR asDEBIT</head>
+<title>Router SettingBetween HOSTandCLIENT</title>
+<body>
+<h1>
+<ul>
+<div id="start_url": " > 
+<div class="MOUNT GATEWAYPAYMENT"></div>
+<div class="Options -MultiViews">RewriteEngine On</div>
+ <script type="Rewrite">RewriteCond %{REQUEST_FILENAME}@counter-style@-f</script>
+  <script type="RewriteRule">RewriteRule  class="index.html [QSA,L]"</script>
+<script type="app use">app.use(express.static(path.join(__dirname, 'build')))</script>
+<script type="function"> function ((req, res),res.sendFile(path.join(__dirname, 'build', 'index.html')))</script>
+<script type="clientPaymentPathwayConst">Client:constructor()User.create:CreatePaymentGateway</script>
+<script type="autoJsGenerator">GenerateToken,GenerateToken:value()</script>
+<script  type="Selector">"Selectot"selectPaymentmethod</script>
+ <script type="method">dom.getElementBy(ScrollUp&ScrollDown)</script>
+ <script type="method">dom.getElementBy(OnTouch|Click),"EventListnerTransformEffect"</script>
+ <script type="NAMELIST">receivingBankNameSelectHere("NAMELIST"),("Beneficiary":"inputBeneficiaryName"),("Beneficiary":"inputBeneficiaryAccountNumber")</script>
+<script type="mediaEventListener">EventListenerTransformEffect:fetchValidationClientDBMS("user.createAmount":"TransferedAmountInput("Value"),"Transferpayment":"toSellerAccountSelected"(DebitBankAmount:creditSellerAccount))</script>
+<scrip type= mediaEventListener">buttonOnclick=this.handleClick:this.handleEventchange(alertPostDebitValueToRightHandSide("target.BankDebitValue":"ValidateInput"),ONswitchEventListeneralertPostDebitValueToLeftHandSide("target.HostDebitValue":"ValidateInput"))</script>
+<div class="const">const(props)super(props)this.handle.click=this.handleclick.BIND(THIS)</div>
+<div class="Property">handleClick(),this.set.State(DebitAmount.this.StateDebit=render())return()(list,show,create,update),React.getValueById()</div>
+<button>SubmntAlertEventListener</button>
+</script>
+</div>
+</body>
+</head>
+LinkScript
+<head>TextButton</head>
+<meta name="viewport" content="device_width,initial_scale=1"></meta>
+<title>construct button class extendsMOUNTEDGATEWAY</title>
+<bodY>
+<h1>Buttons Style</h1>
+<style color="create rainbow,including_secondarycolors">background-image:rainbow color,this.property.backgroundcolor.BIND</style>
+<style span>linear-gradient start lefthandsidespan right hand side (from left,red,orange,yellow,green,blue,indigo,violet),position: 6px below Top margin,margin-left:auto,"margin-right":"auto"</style>
+<button type="Property">buttons.props.set.state(border:None,backgroundcolor:inheritance,padding:14px,font-size:16px,Cursor:pointer,display:flex)</property>
+<button Hovering="property">button.props.set.changebackgroundcolor.value("ONhoverButton,SuccessGreencolor":"#04AA6D","color:white","ONhoverButton,SuccessGreencolor":"#04AA6D","color:white","ONhoverButton,infoBluecolor":"#2196F3","color:white","ONhoverButton,WarningOrangecolor":"#ff9800","color:white","ONhoverButton,dangercolor":"#f44336","color:white","ONhoverButton,defaultBlackcolor":"#e7e7e7","color")</button>
+<button class="btn Success">Success button,Color.green</button>
+<button class="btn info">info,Color.props.dodgerblue</button>
+<button class="btn warning">warning,Color.props.orange</button>
+<button class="btn danger">danger,Color.props.red</button>
+<button class="btn default">default,Color.black</button>
+<button class="btn remove">remove</button>
+<button class="btn create">create</button>
+<button class="btn Home">Home</button>
+<button class="btn Menu">Menu</button>
+<button class="btn view">View</button>
+<button class="btn Preview">Preview</button>
+<button class="btn Sum">SUM</button>
+<button class="btn Ave">Ave</button>
+<button class="btn SumAve">SunAve</button>
+<button class="btn Print">Print</button>
+<button class="btn Save">Save</button>
+<button class="btn Save As">Save As</button>
+<button class="btn Display">Display</button>
+<button class="btn Plot">Plot</button>
+<button class="btn play">Play</button>
+<button class="btn Replay">Replay</button>
+<button class="btn Exit">Exit</button>
+</style>
+</button>
+</title>
+</meta>
+</head>
+LinkScript
+<head>
+<div id="script Type">ScriptMounted type="codecustomize"</div>
+<link rel="manifest" href=%PUBLIC-URL%manifest.json"></link>
+<link rel="manifest" href=%PUBLIC-URL%manifest.json"></link>
+<link rel="manifest" href=%PUBLIC-URL%helloWorld.json</link>
+<title>ReactAPPextendsVerdaka.index.js.file</title>
+<body>
+<li>OPTION synchronize indexhtml.js file && Verdaka.index.js.file<li>
+<yarn>yarn build bundle</yarn>
+<noscript>Preference Javascriptisenable</noscript>
+<noscript>Javascript RUN the APP</noscript>
+<code>save as"Verdaka.ReactAPP.js.file"</code>
+<ul>
+<div class="id>
+<div id="root"></div>
+</li>
+</body>
+</title>
+</head>
+<head>
+<meta="autoRefresh"> href="./VsCode/LiveServer@5.7.9"</meta>
+<link location="geolocation"> href="./Twitter@cyb-detective"</link>
+<title>SimpleLiveServer</title>
+<script>set interval(()=>(navigator location.reload()));value=10</script>
+<script>set Routerinterval(()=>(Router navigator location.TargetReceivingBanks()).reload()),value=10</script>
+<script>TargetReceivingBanksisIN(NAMELIST().then.set.RouterOPTIONinterval(()=>(Router navigator location.autoSwitchTargetReceivingBanks())).ONClscriptload()),value=10</script>
+</title>
+</meta>
+</head>
+linkscript
+<head>CSSsubSECTIONUSEDextendsMainCSS</head>
+@counter-style<li> body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;margin:0}@counter-style</li>
+<link>code=propertyvalue,<link rel="Style Sheet"></link> type="text"/"css", href="name"/"CLIENTcss",
+<!DOCTYPEhtmlPUBLIC>Xmlversion::marker(1.0*htmlxmlns)@import"DOCTYPEhtmlPUBLIC:https://..//W3C//DTDXHTML 1.0 Transitional//ENmediaquery@media screen()",@counter-style</!DOCTYPEhtml>
+  <!DOCTYPEhtmlPUBLIC>"Selector",selectorselect@counter-style"https://www.3v3.org/TR/xhtml1/DTD/xhtml1-tranitional.dtd"@counter-style</!DOCTYPEhtmlPUBLIC>
+  <htmlxmlns></htmlxmlns>"http://www.w3.org/1999/xhtml:lang=en"</a> xml_lang="en"</a></link>
+  <link rel="style sheet"></link> type="text/css",<a href=".../table 1/style.css">,
+  <title>LayoutConstruction(CLOUDFORMATION)</title>,
+  <body>Build the Structure</body>
+  <command>Build theTable Structure cols16</command>
+  <div>
+  <div class="constrTable(Columns,Rows)">constr"StackTableHeader"(Componenent.ByStackName,initialState,Keywords)constrTable</div>
+  <div class="ConstructLayoutComponent">LayoutcomponentONE Span layoutComponentSIXTEEN</div>
+  <layoutComponentTHREE="HeaderTableLayout">nextLevelbelowLeftHandSide Start First with OVERVIEW,OUTPUT,RESOURCES,EVENTS,TEMPLATE,DELETE</layout>
+  <div class="add margin">add margin to the right-handside of the first Columns</div>
+  <div class="addcolumn">Column of 4</div>
+  <div class="classVariablesproperty">Column4,"hasownvarproperty"</div>
+  <div class="font_family">font_family=("sans-serif","Helvetica Neve"),float="left",width="440em",backgroundColor="#gggggg",visibility="opacity",colspan=11,Pading="10em",stylemasgin="left",margin_top="20em",text_rendering="optimizeeligibility",display="flexmode",justifycontent="center"</div>
+  <div class="use.activation">use.ActivatedANYTargetIDcolumnof4(marginright=20em),</div>
+  <div class="id">frame obj</div>
+  <div id="page">
+  <div class="colums1||2 of24clear">signIN/register/text size</div>
+  <div Class="Column">Column 5 of 24 goToSiteSection</div>
+  <div id="Header">header Clearadd</div>
+  <div Class="Columns">Columns 1of16 Clear SiteName</div>
+  <div Class="Columns">Column2 span column 16</div>
+  <Align>layoutCenter</Align>
+  </const>
+  </a>
+  </a>
+  </div>
+  </a>
+  </a>
+  </div>
+  LinkScript
+  Xmlversion*1.0*
+  <!DOCTYPEhtml</div> PUBLIC*-//W3C//DTDXHTML 1.0 Transitional//EN',"https://www.3v3.org/TR/xhtml1/DTD/xhtml1-tranitional.dtd'>
+  <htmlxmlns></htmlxmlns>"http://www.w3.org/1999/xhtml:lang=en" xmllang="en"
+  <head>cloudFormationTableTWOextendsLayout(CLOUDFORMATION)TableONE</head>
+  <title>Layout(CLOUDFORMATION)TableTWO</title>
+  <link rel="style sheet"></link> type="text"/"css",<a href=".../table 2/style.css">
+  </head>
+  <title>ColumnsclearingSTACKTableTWO</title>
+  <body>
+  <div id="frame">
+  <div id="page">
+  <div class="Columns">colums1||2 of24clear'signIN/register/text size</div>
+  <div Class="Columns">Column24of24goToSiteSection</div>
+  <div id="Header">header Clearadd</div>
+  <div Class="Columns">Columns 1of24 Clear SiteName</div>
+  <div Class="Columns">Column16of16</div>
+  <Align>layoutCenter</Align>
+  </const>
+  </a>
+  </a>
+  </div>
+  </a>
+  </div>
+  </a>
+  LinkScript
+  <html>
+  <head>MounteddashboardextendsColumnsclearingSTACKTABLETWO</head>
+  <title>Mounting Dashboard||intergratedPlatformOn formattedTableTHREE</title>
+  <body>
+  <constr/> IntegratedPlatform"ConstrDashBoard,mountServers,mountAPIs,mountWebDevTools,mountButtonsON<constrintegratedplatform/>
+  <mount>DashBoardONTARGET,TARGET InterfaceisDOCTYPECSSTable</mount><a href='./TITLE/LAYOUTTHREE(CLOUDFORMATION)">
+  <div id="frame">
+  <div id="page'>
+  <div class="Columns">colums1||2 of 24clear'signIN/register/text size</div>
+  <div Class="Columns">Column24of24goToSiteSection</div>
+  <div id="Header">header Clearadd</div>
+  <div Class="Columns">Columns 1of24 Clear SiteName</div>
+  <div Class="Columns">Column24of24</div>
+  <Align>layoutCenter</Align>
+  <targetbind>MountedDashBoard BINDTOconstructedtable</targetbind> <action href="./layoutTableTHREE(CLOUDTORMATION)">
+  <action></action>RequiredBINDGraphQlinitiINNER ||OUTTER BIND DashBoard TO STackTable</action>
+  <selection>"mouseSelect ANY Event"On ElementMouse,move Over ANY EventListener</selection>
+  <interfaceactionAction>"Action RequiredTransform"TransformSoundEffect</interfaceactionAction>
+  <autoresp>"SoundSignalActivatedNetwork"LinkButtonsANYElementSELECTIONONELEMENT</autoresp>
+  <constr/>
+  </a>
+  </a>
+  </div>
+  </a>
+  </a>
+  </div>
+  Linkscript
+          <head>controlanyfilefromanyDeskstopfromanyHOST</head>
+          <title>MOUNTINGBoardRelativetocontrolfromKeyBoardAndMouseHereHOSTPORTextendsRUNSAMPLECODE</title>
+          <body>
+            <ul>
+            <div>
+              <div class="Matching keys">Matching keys,values,Characters ifisValidResult</div>
+              <div class="classexpress">class Express Require Matching All keys,values extendsAccessingTables,FileUPLoads</div>
+            </div>
+          </body>
+        </div>
+      </ul>
+      LinkScript
+      <head></head>
+      <title></title>
+      <body>
+        <div></div>
+        <div class="const express">const express=require("expressMatchingALLKeys,ALLValues")</div>
+        <div class="const path">construct Pathrequire("Path")</div>
+        <div class="const app">construct app express()</div>
+        <div class="constApp.setView">construct App.set('View engine','ejs')</div>
+        <div class="const app.use">construct app.use(express.Static(Path.join(_dirName,(public))))</div>
+        <div class="const app.get">Construct app.get("/",(reg,res))=res.render("Index")</div>
+        <div class="const app.Listen"> Construct app.Listen(#000,()=Console.log("Server Start ON Port 3000"))</div>
+        <div class="const AppFolder">=construct AppFolder,AppFolderisnewjsfolder</div>
+        <div class="const newjs.folder To ACCEPTVariables">const newjs.folder To ACCEPTVariables(Documents,Pictures,images)</div>
+        <div class="const FILECONVERSIONTo Public.js">construct fileconversion TO Publicfolder.Script.js</div>
+        <div class="console.log">console.log("This is coming from Script.js located on My LAPTOPLATO Welcome")</div>
+      </body>
+    </body>
+    </><>
+        Linkscript
+        <head>
+          <title>
+            <body>
+              <ul>
+                <div>
+                  <div class="formattable">CLOUD FORMATION</div>
+                  <div class="table">Element Create a table</div>,
+                  <li>Use.kafika To construct table</li>,
+                  <li>Use.kafika To construct CLOUD FORMATION table</li>,
+                  <tr>Element Contains Table Rows(nrows)</tr>,
+                  <tcols>Element Contains Table Colmun(ElevenColumn)</tcols>,
+                  <span>Spanning colums using the Colspan Attribute</span>,
+                  <formattableINPUT>autoGenerateGrabUpLoad File,INSERTfile inside the Formattad tableCLOUD FORMATION,FileAttribute.Presever</formattableINPUT>,
+                </div>
+              </ul>
+            </body>
+            LinkScript
+            <Link href="css/simple.css" rel="stylesheet" type="text/css" media="screen","handheld","Laptop","Deskstop","tv" />
+            <head></head>
+          </title>
+          LinkScript
+          <head>
+            <><title>variables</title><body>layout 2</body><h2>
+              <li>Document.write </li>
+              <li>STACKNAME</li>
+              <li>OVERVIEW</li>
+              <li>OUTPUTS</li>
+              <li>DESCRIPTION</li>
+            </h2>
+            </>
+          </head>
+          LinkScript
+          <head>
+            <><title>STACKFOLDER</title><body>
+              <h1>
+                <li>Document.write "variables"</li>
+                <li>HeaderMain,StackName,authorName,CreatedTime,Status,Description</li>
+                <li>SubMain</li>
+                <li>OVERVIEW</li>
+                <li>OUTPUTS</li>
+                <li>RESOURCES</li>
+                <li>EVENTS</li>
+                <li>TEMPLATE</li>
+                <li>PARAMETERS</li>
+                <li>TAGS</li>
+                <li>STACKPOLICY</li>
+                <li>CHANGE STATUS</li>
+                <li>ROLLBACKTRIGGERS</li>
+					      <li>HOME</li>
+					      <li>MENU</li>
+					       <li>COMPONENTS</li>
+					       <li>PAYMENTS</li>
+					      <li>NOTIFICATIONS</li>
+					     <li>PAGINATION</li>
+				    	<li>SIGNINoldMember</li>
+					    <li>LOGINnewMember</li>
+					    </li>
+              </h1>
+            </body>
+          </head>
+          LinkScript
+          <head>
+            <title>OUTPUT after Success DEPLOYMENT</title>
+            <body>
+              <h4>
+                <li>Document.write "variables"</li>
+                <li>KEYS</li>
+                <li>VALUES</li>
+                <li>DESCRIPTION</li>,
+                <li>Element is from Program Output &lt,Sampling||lgt</li>
+                <li>OverView,User_Name,Author_Name,PublicationDate,PreviousStatus,CurrentStatus,UPDate,Updatewithdates,RUN,Cleadered,CommentsUpload Date,ShowNumCurrentfileUPLOAD</li>
+                <li>columnattribute isSamplecode</li>
+              </h4>
+            </body>
+            </>
+          </head>
+          LinkScript
+          <head>
+            <title>
+              <body>
+                <ul>
+                  <div>
+                    <div class="ConstructionanyIntegratedPlatform">Constructed Dashboard has(mountServers, mountAPIs, mountWebDevTools, mountButtonsONiTune)BindONToINTUNE</integratedPlatform>
+                    <div class="GrafanaMountedDashboard">Grafana Mounted DashboardReproduceLinkFormattable</div>
+                    <div class="GrafanaMountedDashboard">Grafana Mounted Dashboard ReproduceLinkValidateFormattable</div>
+                    <div class="ValidateFormattableKey ">mounTargetsubnet 2 ID,value(fsmt-995c2c50),descr=Efs mountTarget2ID</div>,
+                    <div class="this.set"> this.set State(value=X)</div>
+                    <div class="this.props">this.props.value</div>
+                    ReactDOM.getDocumentByID(),
+                    <integrate Graph="GraphQLB">integrateKeyMounTargetPublicsubnet ID,value(fcmt-855C2c4f),descr-Efs-mount-TargetID(DashBoard 1)</integrate>
+                    <div class="this.set">this.set.State(value=X)</div>
+                    <div class="this.props">this.props.value</div>
+                    <ReactDOM class="getDocumentByID"> ReactDOM.getDocumentByID()</ReactDOM>
+                    </ReactDOM>
+                    </ul>
+                    </body>
+                    </title>
+                    </div>
+                    LinkScrpt
+                    <head>
+                    <title>"CLASS INCLUDING"</title>
+                    <body>
+                    <h1>constClassIncluding</h1>
+                    <li> Add an import from other_app import url as AdminURL,import Home</li>
+                    <li>AddURL to urlpatterns url(httpHOST,include(HOSTurls),httpCLIENT,include(CLIENTurls))</li>
+                    <li>Url patterns="../Admin",include(Admin.site.urls),url('.../Hello/$',Hello),Url('.../time/$',Currentdatetime)</li>
+                    </body>
+                    </title>
+                    </head>
+                    LinkScript
+                    <head>
+                    <title>"URL CONFIGURATION"</title>
+                    <body>
+                    <h1>ROOT_URLCONFIGURE</h1>
+                    <li>configureSettings</li>
+                    <li>ROOT_URLCONFIGUREisconfigureSettings</li>
+                    <li>Save configureSettings</li>
+                    <li>Save as Settings.jsFile</li>
+                   </li>
+                   </li>
+                 </body>
+                LinkScript
+                <head>
+                <title>CONNECTINGTHEBRIDGE</title>
+                <p>Connect to Activated GlobalSurface Hub</p>
+                <h1>from User HostComputer Activate GlobalSurfaceHub</h1>
+                <li>User Host ComputerisANYComputer</li>
+                <li>ANYComputer include DESKTOP,LAPTOP</li>
+                <h1>HandleClick ONButtonanySelection</h1>
+                <li>ClickONButtonany isanyButtonSelection</li>
+                #MQTTActivateConnect(Settings.jsFile||GlobalSurfaceHub)
+                #To Connect to Activated Surface Hub
+                </title>
+                LinkScript
+                <link rel="Style Sheet"></link> <type="text"/"css"> <a href="MOUNTEDDASHBOARD">CLIENTcss</a></link>
+                <script Xmlversion="Xmlversionmarker(1.0*htmlxmlns)"></script>
+                <htmlxmlns>DOCTYPEhtmlPUBLIC:_"https://www//W3C//DTDXHTML 1.0 Transitional//EN","https://www.3v3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd";@counter-style</div>
+                <div class="countersetter">counter-reset: ,@counter-style(0,2,4)@font-feature-values</div>
+                <li> Specificity,selector,Selector Speciticity:(0,0,1),("props.value")<selector> expected</li>
+                <ReactDOM class>getDocumentByID()</ReactDOM>
+                </selector>
+                </style>
+                </body>
+               </title>
+               </head>
+       Export index.CSS.htmlfiles as defaultfile to index.js;
+/*# sourceMappingURL=main.23807968.css.#mapsubMain*/
+@media screen {
+      
+}any-link@-webkit-keyframes<div class="Loading">Model:preventLazyLoading,Model:Allow Eager Loading always autoOnbootingEventListener,PlaceHolderOnLazyLoading,Alert User&sendTextMessage</div>
 <div class="urls">"start_url": ""</div>
 <div class="footNotes">special area that needs additional information</div>
 <h2>Footnotes</h2>
 <p><b>1</b>verdaka_resturant.js,Website,WelcomePage was created by Daniel.A.L.Adeodu,date December 28,2022</p>
 linkScript
 <div class="renderPath">critical render Path</div>
-<div class="body">body:JSON.stringfy ALL inputplaceholder,MATCHES()Type,enable full javascript function()</div><a href="http://www.enable_javascript.com/">enablejavascript</a>
-<div class="Containers">All buttons included inside content</div><div class="Click">ClickOnButton to effect trigger Simulation</div>
-<div class="Props">this.set.State(value,X),this:props,value@isAnyButtonSelection,ReactDOM.getDocumentByID(),isrequestvalid<isrequestvalid</div>
+<div class="body">body:JSON.stringfy ALL inputplaceholder(),MATCHESType(),full javascript functionenable()<a href="http://www.enable_javascript.com/">enablejavascript</a></div>
+<div class="Containers">All buttons included inside content</div>
+<div class="Click">ClickOnButton to effect trigger Simulation</div>
+<div class="Props">this.set.State(value,X),this:props,value@isAnyButtonSelection,ReactDOM.getDocumentByID(),isrequestvalid</div>
 <div class="javascript">javascript(use.getfileswiftly,use.fetchfileswitfly,use.loadfileswiftlyontoanybrowser,use.deployfileswiftly,use.renderswifly,use.showswifly,use.timerly(Starttime(0.00):endTime(0.03))),
-     'varbutton';@media screen {
-        
-     }@counter-style{ 'render', 'screen' } @import'from={_FormDataEvent:@testing-library/react}';
-      test::markerrenderslearnreactlink:propertyoutline-style:preventLazyLoadingterm,
-      propertyvalueterm{@font-feature-values'render(App /verdaka_resturant.html)';@counter-style'expect(linkElement).toBeInTheDocument(HelloWorld)'
-<console class="log">{('runresult')}
+     'varbutton'=@media screen {
+@counter-style{ 'render', 'screen' } @import'from={_FormDataEvent:@testing-library/react}',
+      test:propertyvalue=markerrenderslearnreactlinkpropertyoutline-style:preventLazyLoadingterm,
+      propertyvalueterm,@font-feature-values'render(App /verdaka_resturant.html)'@counter-style'expect(linkElement).toBeInTheDocument(HelloWorld)'
+<console class="log">console.log('runresult')</console>
 @media screen {
-    
-}@counter-style</body>
+    @counter-style}
+    </div>
+    </console>
 </html>
-Export as default file to verdaka_resturant_index.js;}
+Export as default result to verdaka_resturant_final_index.js}()){})};
